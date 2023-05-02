@@ -22,6 +22,8 @@
 
 - 💬 Ask me about **Data Engineering, Data Science, Machine Learning**
 
+- ⚡ Fun fact **Forever the girl that gets excited over pretty skies,books and good coffee! ✨**
+
 - 📫 How to reach me **dhvanikothari03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
