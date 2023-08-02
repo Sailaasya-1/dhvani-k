@@ -26,6 +26,9 @@
 
 - 📫 How to reach me **dhvanikothari03@gmail.com**
 
+- Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="https://github.com/dhvani-k/resume/blob/main/Dhvani_Kothari_Resume.pdf" target="_blank">Resume</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhvanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhvanik/" height="30" width="40" /></a>
