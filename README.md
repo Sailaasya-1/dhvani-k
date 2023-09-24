@@ -11,8 +11,9 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Dhvani Kothari</h1>
-<h3 align="center">A data wizard in making, with a wealth of experience as a Data Engineer and a formidable proficiency in Data Science, specializing in Machine Learning with a Master’s degree.</h3>
+<h1 align="center">👩‍💻 Dhvani Kothari: Data Engineer | Cloud Specialist | Solutions Architect</h1>
+<h3 align="center">Harnessing the power of modern computing architectures and cloud platforms, I specialize in designing and implementing scalable data solutions. With a rich experience spanning across data engineering, cloud technologies, and big data ecosystems, I'm dedicated to optimizing data workflows and driving efficiency in complex systems.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani-k&label=Profile%20views&color=0e75b6&style=flat" alt="dhvani-k" /> </p>
 
