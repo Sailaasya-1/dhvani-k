@@ -37,8 +37,9 @@
 
 ** Well my resume provides a history of all the good stuff, like my qualifications, experience, and killer sense of humor. Okay, maybe not the last one, but it's worth a shot, right? You can find my resume at - <a href="https://github.com/dhvani-k/Resume/blob/main/Dhvani_Kothari_DE_Resume.pdf" target="_blank">Resume</a>
 
+🌱 **Currently Exploring**: Sustainable and Efficient AI, Serverless Deployments, and Deep Learning.
 
-<h3 align="left"> Connect with me:</h3>
+**Connect with me:**
 <p align="left">
 <a href="https://linkedin.com/in/dhvanik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhvanik/" height="30" width="40" /></a>
 <a href="https://kaggle.com/dhvani.kothari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhvani.kothari_" height="30" width="40" /></a>
@@ -46,7 +47,6 @@
 <a href="https://www.leetcode.com/dhvanikothari03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhvanikothari03" height="30" width="40" /></a>
 </p>
 
-🌱 **Currently Exploring**: Sustainable and Efficient AI, Serverless Deployments, and Deep Learning.
 
 👇 Check out my repositories to see my hands-on projects and contributions!
 
