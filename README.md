@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani-k&label=Profile%20views&color=0e75b6&style=flat" alt="dhvani-k" /> </p>
 
-- 🔭 I’m currently working on **Predicting Formula-1 Race Winner** and **Side View Face Recognition**
+- 🔭 I’m currently working as a **Solutions Architect Intern** at **[Brainchip Inc.](https://brainchip.com/)**
 
 - 🌱 I’m currently learning **Deep Learning**
 
