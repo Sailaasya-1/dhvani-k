@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<p align="center"> 👩‍💻<b> Dhvani Kothari: Data Engineer | Cloud Specialist | Solutions Architect </b></p>
+<p align="center"> 👩‍💻<h2> Dhvani Kothari: Data Engineer | Cloud Specialist | Solutions Architect </h2></p>
 <h3 align="center" style="color:black;">Harnessing the power of modern computing architectures and cloud platforms, I specialize in designing and implementing scalable data solutions. With a rich experience spanning across data engineering, cloud technologies, and big data ecosystems, I'm dedicated to optimizing data workflows and driving efficiency in complex systems.
 </h3>
 
