@@ -14,15 +14,6 @@
 <h1 align="center"> 👩‍💻 Dhvani Kothari: Data Engineer | Cloud Specialist | Solutions Architect</h1>
 <h3 align="center">Harnessing the power of modern computing architectures and cloud platforms, I specialize in designing and implementing scalable data solutions. With a rich experience spanning across data engineering, cloud technologies, and big data ecosystems, I'm dedicated to optimizing data workflows and driving efficiency in complex systems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani-k&label=Profile%20views&color=0e75b6&style=flat" alt="dhvani-k" /> </p>
-
-<p align="center"> 👩‍💻<h2> Dhvani Kothari: Data Engineer | Cloud Specialist | Solutions Architect </h2></p>
-<h3 align="center" style="color:black;">Harnessing the power of modern computing architectures and cloud platforms, I specialize in designing and implementing scalable data solutions. With a rich experience spanning across data engineering, cloud technologies, and big data ecosystems, I'm dedicated to optimizing data workflows and driving efficiency in complex systems.
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhvani-k&label=Profile%20views&color=0e75b6&style=flat" alt="dhvani-k" /> </p>
-
-
 🎓 **Education**: 
 - **MS in Computer Science & Engineering** from [University at Buffalo, The State University of New York](https://www.buffalo.edu/). Specialized in Data Intensive Computing, Algorithms for Modern Computing Systems, and Machine Learning.
 - **BE in Computer Technology** from [Yeshwantrao Chavan College of Engineering](https://www.ycce.edu/).
